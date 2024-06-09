@@ -1,2 +1,2 @@
-# dio-trilha-java-basico
-Repositório para exemplos do curso de Java Básico pela DIO.
+﻿# Bem-vindo a trilha de Java básico da DIO! 📚👨‍💻
+Aqui serão armazenados os resumos, códigos e conteúdos referentes ao curso de Java básico proporcionado pela [Digital Innovation One](https://www.dio.me/) (DIO).
