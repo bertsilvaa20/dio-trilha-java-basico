@@ -5,6 +5,7 @@ public static void main(String[] args) {
     String meuNome = "Robert Silva";
 
     double salarioMinimo = 2500; // double salarioMinimo = 2.500 *XXXX* FORMA INCORRETA
+    long olá;
 
     short numeroCurto = 1;
     int numeroNormal = numeroCurto;
