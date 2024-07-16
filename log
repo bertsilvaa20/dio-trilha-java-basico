@@ -1,0 +1,169 @@
+[33mcommit 3ec22863e1ebc67eff254f225ac18e649b204a14[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Mon Jul 15 18:59:01 2024 -0300
+
+    Controle de Saque
+
+[33mcommit 74595249436baa9c3dfe9f9ef3ac8d369b6dc6d5[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Mon Jul 15 18:50:01 2024 -0300
+
+    Verificacao Cheque Especial
+
+[33mcommit 6a6e6a6700e52733e9808e2e3739f01c4ff4bb3f[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Mon Jul 15 18:26:07 2024 -0300
+
+    Verificador de Elegibilidade de Conta
+
+[33mcommit f66af4509cb907371f620aa8149e2ad61daa62dc[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Mon Jul 15 18:18:17 2024 -0300
+
+    Verificador de Número de Conta.
+
+[33mcommit fbc296959475b0d828d1210af675a5ccce1c7f1d[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Mon Jul 15 18:09:02 2024 -0300
+
+    SimulacaoBancaria
+
+[33mcommit 8b8faf185e3adf54736e753cfa11a50bbf02d979[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Mon Jul 15 16:31:04 2024 -0300
+
+    Desafio de Controle de Fluxo
+
+[33mcommit 8807ce6639b2002df634c04763885e2b61f5e1d0[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Mon Jul 15 16:05:10 2024 -0300
+
+    Projeto Básico de Processo Seletivo.
+
+[33mcommit c9269e0c2ad6481a933427b3b39f3c8660235147[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Fri Jul 12 16:38:58 2024 -0300
+
+    Exceções
+
+[33mcommit fb5763a53fca10113587a6c1425b5637f962f90f[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Fri Jul 12 16:03:30 2024 -0300
+
+    Estruturas de Repetição
+
+[33mcommit d5dbc5f234b83802b79e4333a857789378bacb78[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Thu Jul 11 15:50:27 2024 -0300
+
+    Estruturas Condicionais
+
+[33mcommit c58dfae184910b73265d99e3de93d690dcc3c5c2[m
+Merge: cc68d49 5d99566
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Mon Jun 17 11:52:51 2024 -0300
+
+    Merge branch 'main' of https://github.com/bertsilvaa20/dio-trilha-java-basico
+
+[33mcommit cc68d491e6e155d965b65fb1cee11db84b1fe86f[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Mon Jun 17 11:52:48 2024 -0300
+
+    certi
+
+[33mcommit 5d995662b8e3851d451c7515361c13a2de102c01[m
+Author: Robert Silva <148087175+bertsilvaa20@users.noreply.github.com>
+Date:   Mon Jun 17 11:50:48 2024 -0300
+
+    Update README.md
+
+[33mcommit b96c27845994ebd5a8c69eb50929e1cab2735f03[m
+Author: Robert Silva <148087175+bertsilvaa20@users.noreply.github.com>
+Date:   Mon Jun 17 11:50:23 2024 -0300
+
+    Update README.md
+
+[33mcommit eaef94d5efdb933631417248d24a7e9569458735[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Mon Jun 17 11:40:54 2024 -0300
+
+    meu projeto de conta bancária
+
+[33mcommit 3ea2c5a042e53e5bd0be14462628b140fb8e4b7e[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Mon Jun 17 10:59:39 2024 -0300
+
+    certi
+
+[33mcommit 505d99d329839776a140704b42f6167b94a3b17e[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Thu Jun 13 15:52:11 2024 -0300
+
+    Documentação Java.
+
+[33mcommit a9f704a9c88a23a7a5f9ab85e83ac5b5a57335ec[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Thu Jun 13 15:51:55 2024 -0300
+
+    Documentação Java.
+
+[33mcommit 34ee8cab4eeab4f9578df893ba0e25d3a81c3b1b[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Thu Jun 13 14:51:18 2024 -0300
+
+    organizando as pastas.
+
+[33mcommit 74b389ad34d11aac2489bf8a9fe63c84e1598360[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Wed Jun 12 14:23:00 2024 -0300
+
+    projeto da SmartTV - prática Métodos
+
+[33mcommit 69b0ee608ad510282dc6b0a3e54de3d5a896f8be[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Mon Jun 10 13:00:07 2024 -0300
+
+    estudando Operadores!
+
+[33mcommit 8c1d86dee98da48bfd8ee4fff955734a66eb0dec[m
+Merge: f5e91ec 576b1f7
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Sun Jun 9 15:57:59 2024 -0300
+
+    Merge branch 'main' of https://github.com/bertsilvaa20/dio-trilha-java-basico
+
+[33mcommit f5e91ec3476b7a708872bc80f9e07c2b58eca425[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Sun Jun 9 15:57:53 2024 -0300
+
+    resumo de tipos e variaveis
+
+[33mcommit 576b1f7424ee3f6bf55d644bedd6be17dc946afd[m
+Author: Robert Silva <148087175+bertsilvaa20@users.noreply.github.com>
+Date:   Sun Jun 9 15:34:03 2024 -0300
+
+    Update README.md
+
+[33mcommit fc538527698c1c85933f6240892924726df83660[m
+Author: Robert Silva <148087175+bertsilvaa20@users.noreply.github.com>
+Date:   Sun Jun 9 15:33:48 2024 -0300
+
+    Update README.md
+
+[33mcommit 80304d9b1ad0feb08b4b9ff358288d451e885aa7[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Sun Jun 9 15:21:54 2024 -0300
+
+    mudança no README
+
+[33mcommit a207fc6dfbbb5b0c026fe635bc5965f6c78f073b[m
+Author: bertsilvaa20 <robertsilvaqueiroz22@gmail.com>
+Date:   Sun Jun 9 15:12:37 2024 -0300
+
+    primeiro commit
+
+[33mcommit df1e6487feafa14ff7ee4aa302074827b740d866[m
+Author: Robert Silva <148087175+bertsilvaa20@users.noreply.github.com>
+Date:   Sun Jun 9 15:08:46 2024 -0300
+
+    Initial commit
