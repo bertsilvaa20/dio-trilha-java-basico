@@ -1,0 +1,20 @@
+package pilarespoo;
+
+public abstract class Veiculo {
+	
+private String chassi;   // chassi = placa
+	
+	public String getChassi() {
+		return chassi;
+	}
+	
+	public void setChassi(String chassi) {
+		this.chassi = chassi;
+	}
+	
+	public abstract void ligar();
+
+		
+		
+	}
+	
