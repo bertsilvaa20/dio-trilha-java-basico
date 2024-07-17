@@ -1,0 +1,25 @@
+public class Escola extends Estudante {
+	
+	public static void main(String[] args) {
+		Estudante estudante1 = new Estudante();
+		estudante1.nome = "Robert";
+		estudante1.idade = 20;
+		estudante1.raça = "Branco";
+		estudante1.sexo = 'M';
+		
+		Estudante estudante2 = new Estudante();
+		estudante2.nome = "Julia";
+		estudante2.idade = 19;
+		estudante2.raça = "Morena";
+		estudante2.sexo = 'F';
+		
+		Estudante estudante3 = new Estudante();
+		estudante3.nome = "João";
+		estudante3.idade = 21;
+		estudante3.raça = "Negro";
+		estudante3.sexo = 'M';
+		
+		//Imprimindo informações dos alunos (objetos) criados
+		System.out.println("Nome do aluno 1: " + estudante3.nome);
+}
+}

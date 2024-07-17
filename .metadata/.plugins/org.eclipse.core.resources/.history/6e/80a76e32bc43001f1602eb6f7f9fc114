@@ -1,0 +1,24 @@
+public class Estudante {
+	
+	String nome;
+	int idade;
+	String raça;
+	static char sexo;
+	
+	static void correr(String comida) {
+		
+		
+	}
+	
+	static void beber(String bebida) {
+		
+		
+	}
+	
+	static void correndo() {
+		
+		
+		
+	}
+
+}
