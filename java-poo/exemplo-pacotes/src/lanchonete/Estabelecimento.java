@@ -9,6 +9,8 @@ public class Estabelecimento {
 	public static void main(String[] args) {
 		Cozinheiro cozinheiro = new Cozinheiro();
 		
+		//ações que estabelecimento precisa ter ciência
+		
 		cozinheiro.adicionarSucoNoBalcao();;
 		cozinheiro.adicionarLancheNoBalcao();
 		cozinheiro.adicionarComboNoBalcao();
