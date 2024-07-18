@@ -13,7 +13,7 @@ public class Fabrica {
 	public static void main(String[] args) {
 		EquipamentoMultifuncional em = new EquipamentoMultifuncional();
 		
-		Scanner scanner = new Scanner();
+		Scanner scanner = new Scanner();   // scanner referente ao objeto Scanner criado.
 		
 		Impressora impressora = em;
 		Digitalizadora digitalizadora = scanner;
